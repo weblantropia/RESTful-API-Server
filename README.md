@@ -20,8 +20,8 @@ En tu navegador accede a  Ej.: http://localhost/{nombre-de-directorio}/v1/. Aseg
 
 ## Desarrollado con
 
-* PHP [PHP](http://php.net)
-* Slim Framework [Slim Framework](https://github.com/slimphp/Slim)
+* [PHP](http://php.net)
+* [Slim Framework](https://github.com/slimphp/Slim)
 
 ## Autor
 
